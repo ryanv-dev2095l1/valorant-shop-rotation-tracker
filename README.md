@@ -6,3 +6,5 @@ Tracks daily Valorant shop offers across my accounts and diffs them. I got tired
 
 pip install -r requirements.txt
 
+
+<!-- checked: 2026-10-04 -->
